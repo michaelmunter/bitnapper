@@ -1,6 +1,6 @@
 # BETANAPPER
 
-A functional (but inferior) abductor of bits. Its submissive nature only allows it to steal from inattentive parent sites. Unadaptable and easily breaks down.
+A functional (but inferior) abductor of bits from passive parent sites (i.e. without dynamic loading).
 
 ## USE CASE
 
